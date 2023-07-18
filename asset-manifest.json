@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.37f123de.css",
+    "main.js": "/react-gh-pages/static/js/main.f19e587d.js",
+    "static/media/investment-calculator-logo.png": "/react-gh-pages/static/media/investment-calculator-logo.c20da4d5b23f8d49ad00.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.37f123de.css.map": "/react-gh-pages/static/css/main.37f123de.css.map",
+    "main.f19e587d.js.map": "/react-gh-pages/static/js/main.f19e587d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37f123de.css",
+    "static/js/main.f19e587d.js"
+  ]
+}
